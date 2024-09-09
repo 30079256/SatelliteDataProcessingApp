@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vBYzuZ8PyRugBo33LcAUixTIXsogOVg3kjY+RD0WdQf38TKhRO/XNy3bPkCHpz9Jf2SWohFcwWqY4/0HJmodQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\30079256\\Downloads\\SatelliteDataProcessingApp 20022024\\SatelliteDataProcessingApp\\SatelliteDataProcessingApp\\SatelliteDataProcessingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\30079256\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,103 @@
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.exe
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.deps.json
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.runtimeconfig.json
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Galileo6.dll
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.AssemblyReference.cache
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\App.g.cs
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.cache
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.lref
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.g.resources
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfoInputs.cache
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfo.cs
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CopyComplete
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\refint\SatelliteDataProcessingApp.dll
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.genruntimeconfig.cache
+C:\Users\30079256\source\repos\SatelliteDataProcessingApp\obj\Release\net8.0-windows\ref\SatelliteDataProcessingApp.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.exe
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.deps.json
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.runtimeconfig.json
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Galileo6.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.AssemblyReference.cache
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.g.cs
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\App.g.cs
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.cache
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.lref
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.baml
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.g.resources
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfoInputs.cache
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfo.cs
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CoreCompileInputs.cache
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CopyComplete
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\refint\SatelliteDataProcessingApp.dll
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.genruntimeconfig.cache
+F:\TAFE\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\ref\SatelliteDataProcessingApp.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.exe
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.deps.json
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.runtimeconfig.json
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\bin\Release\net8.0-windows\Galileo6.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.AssemblyReference.cache
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\App.g.cs
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.cache
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp_MarkupCompile.lref
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.g.resources
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfoInputs.cache
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.AssemblyInfo.cs
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.csproj.CopyComplete
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\refint\SatelliteDataProcessingApp.dll
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.pdb
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\SatelliteDataProcessingApp.genruntimeconfig.cache
+C:\Users\30079256\Downloads\SatelliteDataProcessingApp 20022024\SatelliteDataProcessingApp\SatelliteDataProcessingApp\obj\Release\net8.0-windows\ref\SatelliteDataProcessingApp.dll
